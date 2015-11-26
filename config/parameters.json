@@ -1,0 +1,9 @@
+{
+    "i18n.locale": {
+        "fr_BE": {
+            "name": "Français (Belgique)",
+            "full": "fr_BE.utf8",
+            "translator.script.plural": "$n != 1"
+        }
+    }
+}
